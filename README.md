@@ -1,3 +1,3 @@
 # weather_app
 
-# [alt text](http://url/to/img.png)
+# ![alt text](https://github.com/savdev-ua/weather_app/blob/main/image.png)
